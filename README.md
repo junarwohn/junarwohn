@@ -1,3 +1,6 @@
+<h2 align="center">Hi, Lovely to see you again.</h2>
+<h3 align="center">I am M.S. Student in Computer Science, interested in Deep Learning on the Edge</h3>
+
 ![junarwohn's github stats](https://github-readme-stats.vercel.app/api?username=junarwohn&show_icons=true&theme=dark)
 
 <!--
